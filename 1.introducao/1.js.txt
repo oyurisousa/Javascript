@@ -1,0 +1,14 @@
+Conceitos básicos
+    - utilizado para deixar o site mais interativo(manipulando o html e css);
+    - sintaxe baseada no ECMA SCRIPT;
+    - atualmente podemos utilizar o javascript no lado do cliente e no lado do servidor.
+Evolução
+    - no decorre dos anos foram lançados diversas bibliotecas e framworks
+        - Jquery
+    -Os navegadores passaram a levar mais a sério a questão de compatibilidade para evitar paginas web com problemas
+    -Em 2009 com o surgimento do Node.js, o javascript se tornou ainda mais popular
+        -podendo executar o código client-side ou server-side.
+Características
+    -supore universal
+    - imperativa e estruturada(linguagem de programação)
+    - forma funcional ou orientada a objetos.
