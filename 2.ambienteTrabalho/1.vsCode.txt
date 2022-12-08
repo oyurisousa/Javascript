@@ -1,0 +1,6 @@
+Visual estúdio Code 
+    - https://code.visualstudio.com/
+
+Extenões
+    -night owl
+    - live server
