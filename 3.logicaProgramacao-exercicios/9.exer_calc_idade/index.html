@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        var nome = prompt("qual o seu nome? ")
+        var ano_nasc = prompt("Em que ano vocÊ nasceu? ")
+        while(ano_nasc > 2023){
+            alert("por favor insira um numero válido!")
+            var ano_nasc = prompt("Em que ano vocÊ nasceu? ")
+        }
+        var ano_atual = prompt("Em que ano estamos? ")
+        var idade = ano_atual - ano_nasc
+
+        alert(nome+" tem "+idade+" anos")
+    
+    </script>
+</body>
+</html>
